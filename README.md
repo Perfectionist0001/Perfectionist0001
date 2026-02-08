@@ -44,7 +44,7 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-  <!-- SkillIcons (Full-color, supported) -->
+  <!-- SkillIcons (working perfectly) -->
   <a href="https://discord.gg/mr.perfectionist0520">
     <img src="https://skillicons.dev/icons?i=discord" height="42" />
   </a>
@@ -57,21 +57,27 @@
   <a href="https://instagram.com/its.nikhil.singh">
     <img src="https://skillicons.dev/icons?i=instagram" height="42" />
   </a>
+
+  <!-- FIXED: LeetCode (official colored SVG) -->
   <a href="https://www.leetcode.com/profacer">
-    <img src="https://skillicons.dev/icons?i=leetcode" height="42" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="42" />
   </a>
 
-  <!-- Official colored SVGs (SkillIcons unsupported) -->
+  <!-- Working -->
   <a href="https://www.geeksforgeeks.org/profile/technikhid6z/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" height="42" />
   </a>
+
+  <!-- FIXED: CodeChef (official colored SVG) -->
   <a href="https://www.codechef.com/users/profacer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Codechef.svg" height="42" />
   </a>
+
   <a href="https://codeforces.com/profile/profacer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Codeforces_logo.svg" height="42" />
   </a>
 </p>
+
 
 
 
