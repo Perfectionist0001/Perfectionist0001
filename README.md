@@ -4,11 +4,6 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/devops/devops-plain.svg">
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/devops/devops-original.svg">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devops/devops-original.svg" width="120" />
   </picture>
 </p>
 
@@ -146,13 +141,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=perfectionist0001&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=perfectionist0001&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=perfectionist0001&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 
