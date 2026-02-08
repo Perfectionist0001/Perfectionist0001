@@ -67,9 +67,10 @@
   </a>
 
   <a href="https://www.codechef.com/users/profacer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Codechef.svg"
-         height="42"/>
-  </a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Codechef.svg"
+       height="42" />
+</a>
+
 
   <a href="https://codeforces.com/profile/profacer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Codeforces_logo.svg"
