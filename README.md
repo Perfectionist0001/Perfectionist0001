@@ -49,7 +49,14 @@
   <a href="https://twitter.com/tech4nikhil"><img src="https://skillicons.dev/icons?i=twitter" height="45"/></a>
   <a href="https://instagram.com/its.nikhil.singh"><img src="https://skillicons.dev/icons?i=instagram" height="45"/></a>
   <a href="https://www.leetcode.com/profacer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="45"/></a>
+  <a href="https://codolio.com/profile/mr.perfectionist">
+  <img src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" width="40" alt="Codeolio"/>
+</a>
+  <a href="https://www.geeksforgeeks.org/profile/technikhid6z/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="45" alt="GFG"/>
+</a>
   <a href="https://www.codechef.com/users/profacer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codechef.svg" height="45"/></a>
+  
   <a href="https://codeforces.com/profile/profacer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codeforces.svg" height="45"/></a>
 </p>
 
@@ -140,8 +147,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=perfectionist0001&theme=tokyonight&hide_border=true"/>
 </p>
-
-
 
 ---
 
