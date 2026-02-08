@@ -43,7 +43,7 @@
 
 ## 🤝 Connect With Me
 
-<p align="center">
+<p align="auto">
    <a href="https://discord.gg/mr.perfectionist0520"><img src="https://skillicons.dev/icons?i=discord" height="45"/></a>
   <a href="https://linkedin.com/in/itznikhil"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
   <a href="https://twitter.com/tech4nikhil"><img src="https://skillicons.dev/icons?i=twitter" height="45"/></a>
