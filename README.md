@@ -45,33 +45,34 @@
 
 <p align="center">
   <a href="https://codolio.com/profile/mr.perfectionist">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/code.svg" height="38" />
+    <img src="https://skillicons.dev/icons?i=portfolio" height="42"/>
   </a>
   <a href="https://discord.gg/mr.perfectionist0520">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" height="38" style="filter: invert(1);" />
+    <img src="https://skillicons.dev/icons?i=discord" height="42"/>
   </a>
   <a href="https://linkedin.com/in/itznikhil">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="38" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
   </a>
   <a href="https://twitter.com/tech4nikhil">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" height="38" />
+    <img src="https://skillicons.dev/icons?i=twitter" height="42"/>
   </a>
   <a href="https://instagram.com/its.nikhil.singh">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" height="38" />
+    <img src="https://skillicons.dev/icons?i=instagram" height="42"/>
   </a>
   <a href="https://www.leetcode.com/profacer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" height="38" />
+    <img src="https://skillicons.dev/icons?i=leetcode" height="42"/>
   </a>
   <a href="https://www.geeksforgeeks.org/profile/technikhid6z/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/geeksforgeeks.svg" height="38" />
+    <img src="https://skillicons.dev/icons?i=geeksforgeeks" height="42"/>
   </a>
   <a href="https://www.codechef.com/users/profacer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codechef.svg" height="38" />
+    <img src="https://skillicons.dev/icons?i=codechef" height="42"/>
   </a>
   <a href="https://codeforces.com/profile/profacer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codeforces.svg" height="38" />
+    <img src="https://skillicons.dev/icons?i=codeforces" height="42"/>
   </a>
 </p>
+
 
 
 ---
