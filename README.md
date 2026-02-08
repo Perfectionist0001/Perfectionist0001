@@ -44,34 +44,35 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://codolio.com/profile/mr.perfectionist">
-    <img src="https://skillicons.dev/icons?i=portfolio" height="42"/>
-  </a>
+  <!-- SkillIcons (Full-color, supported) -->
   <a href="https://discord.gg/mr.perfectionist0520">
-    <img src="https://skillicons.dev/icons?i=discord" height="42"/>
+    <img src="https://skillicons.dev/icons?i=discord" height="42" />
   </a>
   <a href="https://linkedin.com/in/itznikhil">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="42" />
   </a>
   <a href="https://twitter.com/tech4nikhil">
-    <img src="https://skillicons.dev/icons?i=twitter" height="42"/>
+    <img src="https://skillicons.dev/icons?i=twitter" height="42" />
   </a>
   <a href="https://instagram.com/its.nikhil.singh">
-    <img src="https://skillicons.dev/icons?i=instagram" height="42"/>
+    <img src="https://skillicons.dev/icons?i=instagram" height="42" />
   </a>
   <a href="https://www.leetcode.com/profacer">
-    <img src="https://skillicons.dev/icons?i=leetcode" height="42"/>
+    <img src="https://skillicons.dev/icons?i=leetcode" height="42" />
   </a>
+
+  <!-- Official colored SVGs (SkillIcons unsupported) -->
   <a href="https://www.geeksforgeeks.org/profile/technikhid6z/">
-    <img src="https://skillicons.dev/icons?i=geeksforgeeks" height="42"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" height="42" />
   </a>
   <a href="https://www.codechef.com/users/profacer">
-    <img src="https://skillicons.dev/icons?i=codechef" height="42"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Codechef.svg" height="42" />
   </a>
   <a href="https://codeforces.com/profile/profacer">
-    <img src="https://skillicons.dev/icons?i=codeforces" height="42"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Codeforces_logo.svg" height="42" />
   </a>
 </p>
+
 
 
 
