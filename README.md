@@ -1,5 +1,5 @@
 <!-- ========================= -->
-<!-- 🌗 DARK / LIGHT MODE LOGO -->
+<!-- Mr.Perfectionist-->
 <!-- ========================= -->
 
 <p align="center">
@@ -44,13 +44,13 @@
 ## 🤝 Connect With Me
 
 <p align="center">
+   <a href="https://discord.gg/mr.perfectionist0520"><img src="https://skillicons.dev/icons?i=discord" height="45"/></a>
   <a href="https://linkedin.com/in/itznikhil"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
   <a href="https://twitter.com/tech4nikhil"><img src="https://skillicons.dev/icons?i=twitter" height="45"/></a>
   <a href="https://instagram.com/its.nikhil.singh"><img src="https://skillicons.dev/icons?i=instagram" height="45"/></a>
   <a href="https://www.leetcode.com/profacer"><img src="https://skillicons.dev/icons?i=leetcode" height="45"/></a>
   <a href="https://www.codechef.com/users/profacer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codechef.svg" height="45"/></a>
   <a href="https://codeforces.com/profile/profacer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codeforces.svg" height="45"/></a>
-  <a href="https://discord.gg/mr.perfectionist0520"><img src="https://skillicons.dev/icons?i=discord" height="45"/></a>
 </p>
 
 ---
@@ -59,7 +59,7 @@
 
 ### 💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,c,sql,bash"/>
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,c,bash,sql"/>
 </p>
 
 ### 🎨 Frameworks & Libraries
@@ -146,3 +146,4 @@
 ---
 
 <h3 align="center">⚙️ Build • Automate • Scale • Repeat ⚙️</h3>
+
