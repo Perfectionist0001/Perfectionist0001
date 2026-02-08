@@ -1,170 +1,165 @@
+<!-- ========================= -->
+<!-- 🌗 DARK / LIGHT MODE LOGO -->
+<!-- ========================= -->
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+      srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/devops/devops-original.svg">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devops/devops-original.svg" width="120" />
+  </picture>
+</p>
+
 <h1 align="center">Hi 👋, I'm Nikhil Singh</h1>
-<h3 align="center">🚀 Passionate DevOps Engineer | Cloud & Automation Enthusiast from India</h3>
+<h3 align="center">DevOps Engineer • Cloud Automation • Scalable Systems</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=perfectionist0001&label=Profile%20views&color=0e75b6&style=flat" alt="perfectionist0001" />
+  <img src="https://komarev.com/ghpvc/?username=perfectionist0001&label=Profile%20Views&color=0ea5e9&style=flat-square"/>
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/tech4nikhil" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/tech4nikhil?logo=twitter&style=for-the-badge" />
-  </a>
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="600"/>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 🌱 Currently learning **Data Structures & Algorithms** and **AWS**
-- ☁️ Interested in **Cloud Computing & DevOps**
-- 💞️ Looking to collaborate with **like-minded developers**
-- 💬 Ask me about **AWS & Cloud Basics**
-- 📫 Reach me at **tech.nikhilsingh@gmail.com**
-- 👨‍💻 All my projects:  
-  👉 https://perfectionist0001.github.io/Personal-Portfolio/
-- 📄 Know about my experiences:  
-  👉 https://perfectionist0001.github.io/Personal-Portfolio/
+I’m a **DevOps & Cloud Engineer** focused on **automation, scalability, and reliability**.  
+I design cloud-native architectures, automate infrastructure, and optimize CI/CD pipelines.
+
+- 🌱 Learning **Advanced AWS & DSA**
+- ☁️ Hands-on with **AWS, Docker, Kubernetes**
+- 🔁 Passionate about **CI/CD, IaC & Monitoring**
+- 🤝 Open to **DevOps Internships & Full-time Roles**
+- 📫 **Email:** tech.nikhilsingh@gmail.com  
+
+🌐 **Portfolio:**  
+👉 https://perfectionist0001.github.io/Personal-Portfolio/
 
 ---
 
-### 🤝 Connect With Me
+## 🧰 DevOps & Cloud Badges
+
+### ☁️ Cloud Platforms
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+</p>
+
+### ⚙️ DevOps & Automation
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
+</p>
+
+### 🖥️ OS & Scripting
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+</p>
+
+---
+
+## ⚙️ Technical Skills
+
+### 💻 Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,c,sql,bash"/>
+</p>
+
+### 🌐 Frameworks & Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,flask"/>
+</p>
+
+### 🧪 Tools & Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vim,mysql,figma"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### ☁️ AI Image Processing Web Application
+**Scalable AWS Architecture | High Availability**
+
+- Designed **secure & fault-tolerant AWS infrastructure**
+- Implemented **EC2, S3, RDS, IAM, VPC**
+- Enabled **Auto Scaling & Load Balancing**
+- Optimized for **cost, performance & reliability**
+
+🛠 **Tech:**  
+<img src="https://skillicons.dev/icons?i=aws,docker,linux"/>
+
+---
+
+### 🧠 CPU Scheduling Algorithm Visualizer
+**Systems Programming & Performance Analysis**
+
+- Visualized core CPU scheduling algorithms
+- Compared execution & performance metrics
+- Built for academic & system-level understanding
+
+🛠 **Tech:**  
+<img src="https://skillicons.dev/icons?i=c,cpp,html,css,js"/>
+
+---
+
+### 🤖 Home Inventory Tracker Chatbot
+**Backend Automation & Data Management**
+
+- Chatbot-driven inventory management system
+- Conversational UI for asset tracking
+- Database-backed automation solution
+
+🛠 **Tech:**  
+<img src="https://skillicons.dev/icons?i=python,flask,mysql,js"/>
+
+---
+
+## 🎓 Certifications
 
 <p align="left">
-<a href="https://linkedin.com/in/itznikhil" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-</a>
-<a href="https://twitter.com/tech4nikhil" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/>
-</a>
-<a href="https://fb.com/itz.nikhil.singh" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/>
-</a>
-<a href="https://instagram.com/its.nikhil.singh" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
-</a>
-<a href="https://www.codechef.com/users/profacer" target="_blank">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40"/>
-</a>
-<a href="https://www.hackerrank.com/tech_nikhilsingh" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40"/>
-</a>
-<a href="https://codeforces.com/profile/profacer" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40"/>
-</a>
-<a href="https://www.leetcode.com/profacer" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
-</a>
-<a href="https://www.hackerearth.com/@tech.nikhilsingh" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" height="30" width="40"/>
-</a>
-<a href="https://auth.geeksforgeeks.org/user/technikhid6z" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40"/>
-</a>
-<a href="https://discord.gg/mr.perfectionist0520" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40"/>
-</a>
+  <img src="https://img.shields.io/badge/AWS_Fundamentals-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Generative_AI-Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Privacy_&_Security-NPTEL-2A9D8F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/IBM-Hardware_&_OS-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Coursera-Digital_Systems-0056D2?style=for-the-badge&logo=coursera&logoColor=white"/>
 </p>
 
 ---
 
-### 🔧 Technical Skills
-
-<ul>
-  <li><b>Languages:</b> C++, Java, JavaScript, C, Python, SQL, Bash</li>
-  <li><b>Frameworks & Libraries:</b> React, Tailwind CSS</li>
-  <li><b>Cloud & DevOps:</b> AWS, Microsoft Azure, Google Cloud, Docker, Kubernetes, Jenkins, CI/CD Pipelines</li>
-  <li><b>Tools & Technologies:</b> Git & GitHub, VS Code, Postman, Vim, MySQL, Figma (Basics)</li>
-  <li><b>Soft Skills:</b> Problem-Solving, Adaptability, Time Management, Leadership</li>
-</ul>
-
----
-
-### 📌 Featured Projects
-
-<ul>
-  <li>
-    <b>AI Image Processing Web Application</b> (Feb 2025 – Mar 2025)<br/>
-    • Designed a scalable, secure, and cost-effective AWS cloud architecture.<br/>
-    • Implemented EC2, S3, RDS, VPC, IAM, Load Balancer, Auto Scaling.<br/>
-    • Built a highly available and performance-optimized environment.<br/>
-    <i>Tech Stack:</i> AWS (EC2, S3, IAM, VPC, RDS, ELB, Auto Scaling, CloudWatch)
-  </li>
-  <br/>
-  <li>
-    <b>CPU Scheduling Algorithm Visualizer</b> (Apr 2025 – May 2025)<br/>
-    • Analyzed and compared CPU scheduling algorithms.<br/>
-    • Created detailed documentation and research notes.<br/>
-    • Helped understand scheduling behavior and performance impact.<br/>
-    <i>Tech Stack:</i> HTML, CSS, JavaScript, C, C++, Git & GitHub
-  </li>
-  <br/>
-  <li>
-    <b>Home Inventory Tracker Chatbot</b> (Apr 2025 – May 2025)<br/>
-    • Built a chatbot-based inventory management system.<br/>
-    • Enabled users to manage household items via conversational UI.<br/>
-    • Improved asset tracking and organization efficiency.<br/>
-    <i>Tech Stack:</i> Python, Flask, JavaScript, HTML, CSS, MySQL
-  </li>
-</ul>
-
----
-
-### 🎓 Education
-
-<ul>
-  <li>
-    <b>Bachelor of Technology – Computer Science & Engineering</b><br/>
-    Lovely Professional University, Punjab<br/>
-    CGPA: 7.21 (Aug 2023 – Present)
-  </li>
-  <br/>
-  <li>
-    <b>Intermediate (PCM)</b><br/>
-    Sunbeam School Robertsganj, U.P<br/>
-    Percentage: 70.66% (2022 – 2023)
-  </li>
-  <br/>
-  <li>
-    <b>Matriculation</b><br/>
-    Sunbeam School Robertsganj, U.P<br/>
-    Percentage: 83.33% (2020 – 2021)
-  </li>
-</ul>
-
----
-
-### 🏅 Certifications
-
-<ul>
-  <li>AWS Fundamentals – AWS Cloud LPU (Apr 2025)</li>
-  <li>AWS STD Workshop – AWS Cloud LPU (Nov 2025)</li>
-  <li>Master Generative AI & Tools – Udemy (Aug 2025)</li>
-  <li>Privacy and Security – NPTEL (Nov 2025)</li>
-  <li>Computational Theory – Infosys (Aug 2025)</li>
-  <li>Introduction to Hardware & Operating Systems – IBM (Oct 2024)</li>
-  <li>Digital Systems: From Logic Gates to Processors – Coursera (Sept 2024)</li>
-</ul>
-
----
-
-### 🏆 Leadership & Activities
-
-<ul>
-  <li>
-    <b>Sports Secretary – LPU Hostel</b> (Aug 2023 – Present)<br/>
-    Coordinating sports activities and encouraging student participation.
-  </li>
-  <br/>
-  <li>
-    <b>Event Coordinator – Coding Ninjas</b> (Nov 2023 – Dec 2024)<br/>
-    Planned and executed multiple technical events and workshops.
-  </li>
-</ul>
-
----
-
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=perfectionist0001&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=perfectionist0001&theme=tokyonight&hide_border=true"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=perfectionist0001&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=perfectionist0001&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/itznikhil"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
+  <a href="https://twitter.com/tech4nikhil"><img src="https://skillicons.dev/icons?i=twitter" height="45"/></a>
+  <a href="https://www.leetcode.com/profacer"><img src="https://skillicons.dev/icons?i=leetcode" height="45"/></a>
+  <a href="https://discord.gg/mr.perfectionist0520"><img src="https://skillicons.dev/icons?i=discord" height="45"/></a>
+</p>
+
+---
+
+<h3 align="center">⚙️ Build • Automate • Scale • Repeat ⚙️</h3>
