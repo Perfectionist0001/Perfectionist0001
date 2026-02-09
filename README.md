@@ -55,26 +55,21 @@
   <a href="https://instagram.com/its.nikhil.singh">
     <img src="https://skillicons.dev/icons?i=instagram" height="42"/>
   </a>
-
   <a href="https://www.leetcode.com/profacer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
-         height="42"/>
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"
+         alt="LeetCode" height="42"/>
   </a>
-
   <a href="https://www.geeksforgeeks.org/profile/technikhid6z/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg"
-         height="42"/>
+    <img src="https://img.icons8.com/color/48/GeeksforGeeks.png"
+         alt="GeeksforGeeks" height="42"/>
   </a>
-
   <a href="https://www.codechef.com/users/profacer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Codechef.svg"
-       height="42" />
-</a>
-
-
+    <img src="https://img.icons8.com/color/48/codechef.png"
+         alt="CodeChef" height="42" />
+  </a>
   <a href="https://codeforces.com/profile/profacer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Codeforces_logo.svg"
-         height="42"/>
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png"
+         alt="Codeforces" height="42"/>
   </a>
 </p>
 
