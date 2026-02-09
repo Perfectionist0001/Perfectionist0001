@@ -179,6 +179,15 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=perfectionist0001&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
 </p>
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=perfectionist0001&label=Profile%20Views&color=0e75b6&style=flat-square" />
+</p>
+
+<p align="center">
+  Check out my contributions and projects below! 👇
+</p>
 
 <h3 align="center">⚙️ Build • Automate • Scale • Repeat ⚙️</h3>
 
