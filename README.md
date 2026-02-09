@@ -68,7 +68,7 @@
          alt="CodeChef" height="42" />
   </a>
   <a href="https://codeforces.com/profile/profacer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-3-pack-logos-icons-3029920.png"
          alt="Codeforces" height="42"/>
   </a>
 </p>
@@ -174,3 +174,6 @@
 
 <h4 align="center"> THANKYOU !  </h4>
 <h4 align="center"> ❤️ </h4>
+
+
+
