@@ -68,7 +68,7 @@
          alt="CodeChef" height="42" />
   </a>
   <a href="https://codeforces.com/profile/profacer">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png"
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"
          alt="Codeforces" height="42"/>
   </a>
 </p>
